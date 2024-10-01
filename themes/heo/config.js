@@ -41,8 +41,8 @@ const CONFIG = {
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
+    '🏠 拆机刷机小能手',
+    '🤖️ 代码编程爱好者',
     '🧱 团队小组发动机'
   ],
 
@@ -116,9 +116,9 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_2: '请发送至我的邮箱:18058563573@163.com',
+  HEO_SOCIAL_CARD_TITLE_3: '点击跳转github',
+  HEO_SOCIAL_CARD_URL: 'https://github.com/dreameutopia',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
