@@ -116,7 +116,7 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '请发送至我的邮箱:18058563573@163.com',
+  HEO_SOCIAL_CARD_TITLE_2: '18058563573@163.com',
   HEO_SOCIAL_CARD_TITLE_3: '点击跳转github',
   HEO_SOCIAL_CARD_URL: 'https://github.com/dreameutopia',
 
