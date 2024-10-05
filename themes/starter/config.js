@@ -39,23 +39,23 @@ const CONFIG = {
   STARTER_FEATURE_1_TITLE_1: '快速且高效', // 特性1
   STARTER_FEATURE_1_TEXT_1: 'AI助力，走在科技前沿，交互式设计', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://www.dreameutopia.us.kg/article/example-10', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '个性化定制', // 特性2
   STARTER_FEATURE_2_TEXT_1: '提出您的需求，我们总是有解决方案', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+    'https://www.dreameutopia.us.kg/article/example-11', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '基于github', // 特性3
   STARTER_FEATURE_3_TEXT_1: '基于项目二次开发，保障使用体验感', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'https://www.dreameutopia.us.kg/article/example-12', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '整合多站资源', // 特性4
   STARTER_FEATURE_4_TEXT_1: '承诺永远更新，永远不用掉队的版本', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'https://www.dreameutopia.us.kg/article/example-13', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
