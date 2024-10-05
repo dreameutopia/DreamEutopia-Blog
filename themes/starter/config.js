@@ -47,8 +47,8 @@ const CONFIG = {
   STARTER_FEATURE_2_BUTTON_URL:
     'https://www.dreameutopia.cn/article/example-11', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '基于github', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '基于项目二次开发，保障使用体验感', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '严格把控质量', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '设定有完整的评估标准，保障您的权益', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'https://www.dreameutopia.cn/article/example-12', // 特性3
 
