@@ -11,13 +11,13 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: '丰富而多样的资源', // 英雄区文字
-  STARTER_HERO_TITLE_2: '通过笔记无感知地建站、成倍放大您的价值', // 英雄区文字
+  STARTER_HERO_TITLE_2: '通过各种神奇的工具、带你探索全新的世界', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '踏上旅途', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
+    'https://github.com/eutopiayang', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://github.com/eutopiayang/', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://github.com/eutopiayang/NotionNext/', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.webp', // 产品预览图 ，默认读取public目录下图片
@@ -36,24 +36,24 @@ const CONFIG = {
   STARTER_FEATURE_TEXT_2:
     'DreamEutopia的愿景是帮助您更有效更快的，实现人生的价值。 ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '免费且开源', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '快速且高效', // 特性1
+  STARTER_FEATURE_1_TEXT_1: 'AI助力，走在科技前沿，交互式设计', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '多种网站定制', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '个性化定制', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '提出您的需求，我们总是有解决方案', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '基于AI', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '基于NextJS开发，更快的响应速度，更好的SEO', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '基于github', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '基于项目二次开发，保障使用体验感', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '整合多站资源', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '承诺永远更新，永远不用掉队的版本', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
 
@@ -75,14 +75,14 @@ const CONFIG = {
   STARTER_PRICING_TITLE: '价格表',
   STARTER_PRICING_TEXT_1: '很棒的定价计划',
   STARTER_PRICING_TEXT_2:
-    '我们制定了灵活的付费模式，您可以按需选择。（NotionNext免费开源，这里仅演示产品订阅付费功能，请勿下单购买！）',
+    '我们制定了灵活的付费模式，您可以按需选择。',
 
   STARTER_PRICING_1_TITLE: '入门版',
   STARTER_PRICING_1_PRICE: '19.9',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
   STARTER_PRICING_1_PRICE_PERIOD: '每月',
   STARTER_PRICING_1_HEADER: '功能点',
-  STARTER_PRICING_1_FEATURES: '所有的主题,免费更新,帮助手册', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: '上门学习服务，New Bing服务', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_1_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
@@ -93,7 +93,7 @@ const CONFIG = {
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
   STARTER_PRICING_2_PRICE_PERIOD: '每月',
   STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: '包含入门版,项目源码,内部社群,技术咨询,SEO优化', // 英文逗号隔开
+  STARTER_PRICING_2_FEATURES: '包含入门版,ChatGPT站点，建站服务，软件服务', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_2_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
@@ -103,7 +103,7 @@ const CONFIG = {
   STARTER_PRICING_3_PRICE_CURRENCY: '$',
   STARTER_PRICING_3_PRICE_PERIOD: '每月',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '包含基础版,功能定制开发', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: '包含基础版,专属VIP客服群', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_3_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
@@ -113,7 +113,7 @@ const CONFIG = {
   STARTER_TESTIMONIALS_TITLE: '用户反馈',
   STARTER_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
   STARTER_TESTIMONIALS_TEXT_2:
-    '数千位站长选择用NotionNext搭建他们的网站,通过帮助手册、交流社群以及技术咨询，大家成功上线了自己的网站',
+    '您可以永远相信这个神奇的网站，只要你提出自己的想法，他总是能重视起来并去解决',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
