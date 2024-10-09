@@ -298,7 +298,7 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: '我的博客', URL: 'https://www.dreameutopia.us.kg/' },
         {
           TITLE: '帮助支持',
           URL: 'https://docs.tangly1024.com/article/how-to-question'
@@ -324,7 +324,7 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: 'Notion写作',
+      TITLE: '国产AI推荐',
       LINK_GROUP: [
         {
           TITLE: 'Notion开始写作',
@@ -363,7 +363,7 @@ const CONFIG = {
   STARTER_CTA_TITLE: '你还在等待什么呢？',
   STARTER_CTA_TITLE_2: '现在开始吧',
   STARTER_CTA_DESCRIOTN:
-    '访问NotionNext的操作文档，我们提供了详细的教程，帮助你即刻搭建站点',
+    '加入我们这个大家庭吧，开启崭新的体验',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
     'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
