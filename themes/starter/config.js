@@ -193,10 +193,10 @@ const CONFIG = {
 
   STARTER_FAQ_4_QUESTION: '什么是上门学习服务？',
   STARTER_FAQ_4_ANSWER:
-    '我们提供大学生上门学习服务，支持语数英物化生等等等等，严格把控人选，不仅对高中成绩进行筛选，同时对大学绩点也会综合评判水平',
+    '目前仅支持江西南昌，我们提供来自各个高校的大学生上门教学服务，支持语数英物化生等等等等，严格把控人选，包含学生证认证，不仅对高中成绩进行筛选，同时对大学绩点也会综合评判水平对应学生情况服务',
 
   // 团队成员区块
-  STARTER_TEAM_ENABLE: true, // 团队成员区块开关
+  STARTER_TEAM_ENABLE: false, // 团队成员区块开关
   STARTER_TEAM_TITLE: '团队成员',
   STARTER_TEAM_TEXT_1: '我们的开发者团队',
   STARTER_TEAM_TEXT_2:
