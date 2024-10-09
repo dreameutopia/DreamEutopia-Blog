@@ -78,32 +78,32 @@ const CONFIG = {
     '我们制定了灵活的付费模式，您可以按需选择。',
 
   STARTER_PRICING_1_TITLE: '入门版',
-  STARTER_PRICING_1_PRICE: '19.9',
+  STARTER_PRICING_1_PRICE: '9.9',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
   STARTER_PRICING_1_PRICE_PERIOD: '每月',
   STARTER_PRICING_1_HEADER: '功能点',
-  STARTER_PRICING_1_FEATURES: '上门学习服务,New Bing服务', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: '上门学习服务', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_1_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
 
   STARTER_PRICING_2_TAG: '推荐',
   STARTER_PRICING_2_TITLE: '基础版',
-  STARTER_PRICING_2_PRICE: '39.9',
+  STARTER_PRICING_2_PRICE: '19.9',
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
   STARTER_PRICING_2_PRICE_PERIOD: '每月',
   STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: '包含入门版,ChatGPT站点,建站服务,软件服务', // 英文逗号隔开
+  STARTER_PRICING_2_FEATURES: '包含入门版,自建独立ChatGPT站点,建站服务,软件服务', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_2_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
 
   STARTER_PRICING_3_TITLE: '高级版',
-  STARTER_PRICING_3_PRICE: '59.9',
+  STARTER_PRICING_3_PRICE: '29.9',
   STARTER_PRICING_3_PRICE_CURRENCY: '$',
   STARTER_PRICING_3_PRICE_PERIOD: '每月',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '包含基础版,专属VIP客服群', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: '包含基础版,自建ChatGPT站点升级,专属VIP客服群', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_3_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
@@ -179,9 +179,9 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
 
-  STARTER_FAQ_1_QUESTION: '什么是ChatGPT自建站点？',
+  STARTER_FAQ_1_QUESTION: '什么是ChatGPT自建站点及升级服务？',
   STARTER_FAQ_1_ANSWER:
-    '因为众所周知的原因，ChatGPT并不对国内开放服务，我们可以帮您搭建一个网站对接ChatGPT官方，只需设置一个密码，您就可以通过网站与最强大模型对话，支持文件传输和绘画',
+    '因为众所周知的原因，ChatGPT并不对国内开放服务，我们可以帮您搭建一个网站对接ChatGPT官方，可以调用ChatGPT-o1，ChatGPT4.0等最新模型，只需设置一个密码，您就可以通过网站与最强大模型对话，支持文件传输和绘画，升级后支持midjourney等更多种最新绘画服务以及可灵等最新视频生成大模型，以及Claude等其他最新大模型',
 
   STARTER_FAQ_2_QUESTION: '什么是建站服务？',
   STARTER_FAQ_2_ANSWER:
