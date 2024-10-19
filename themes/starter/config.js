@@ -10,8 +10,8 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '丰富而多样的资源', // 英雄区文字
-  STARTER_HERO_TITLE_2: '通过各种神奇的工具、带你探索全新的世界', // 英雄区文字
+  STARTER_HERO_TITLE_1: '我们致力于给你最有保障的服务', // 英雄区文字
+  STARTER_HERO_TITLE_2: '用最少的时间和金钱，放心去完成更多的事', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '踏上旅途', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -32,7 +32,7 @@ const CONFIG = {
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: '特性', // 特性
-  STARTER_FEATURE_TEXT_1: 'DreamEutopia的世界', // 特性
+  STARTER_FEATURE_TEXT_1: '崭新的开始', // 特性
   STARTER_FEATURE_TEXT_2:
     'DreamEutopia的愿景是帮助您更有效更快的，实现人生的价值。 ', // 特性
 
@@ -79,7 +79,7 @@ const CONFIG = {
 
   STARTER_PRICING_1_TITLE: '入门版',
   STARTER_PRICING_1_PRICE: '9.9',
-  STARTER_PRICING_1_PRICE_CURRENCY: '$',
+  STARTER_PRICING_1_PRICE_CURRENCY: '￥',
   STARTER_PRICING_1_PRICE_PERIOD: '每月',
   STARTER_PRICING_1_HEADER: '功能点',
   STARTER_PRICING_1_FEATURES: '上门学习服务', // 英文逗号隔开
@@ -90,7 +90,7 @@ const CONFIG = {
   STARTER_PRICING_2_TAG: '推荐',
   STARTER_PRICING_2_TITLE: '基础版',
   STARTER_PRICING_2_PRICE: '19.9',
-  STARTER_PRICING_2_PRICE_CURRENCY: '$',
+  STARTER_PRICING_2_PRICE_CURRENCY: '￥',
   STARTER_PRICING_2_PRICE_PERIOD: '每月',
   STARTER_PRICING_2_HEADER: '功能点',
   STARTER_PRICING_2_FEATURES: '包含入门版,自建独立ChatGPT站点,建站服务,软件服务', // 英文逗号隔开
@@ -100,7 +100,7 @@ const CONFIG = {
 
   STARTER_PRICING_3_TITLE: '高级版',
   STARTER_PRICING_3_PRICE: '29.9',
-  STARTER_PRICING_3_PRICE_CURRENCY: '$',
+  STARTER_PRICING_3_PRICE_CURRENCY: '￥',
   STARTER_PRICING_3_PRICE_PERIOD: '每月',
   STARTER_PRICING_3_HEADER: '功能点',
   STARTER_PRICING_3_FEATURES: '包含基础版,自建ChatGPT站点升级,专属VIP客服群', // 英文逗号隔开
