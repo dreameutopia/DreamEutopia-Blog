@@ -37,7 +37,7 @@ const CONFIG = {
     'DreamEutopia的愿景是帮助您更有效更快的，实现人生的价值。 ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '快速且高效', // 特性1
-  STARTER_FEATURE_1_TEXT_1: 'AI助力，走在科技前沿，交互式设计', // 特性1
+  STARTER_FEATURE_1_TEXT_1: 'AI助力，RAG辅助，交互式设计', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://www.dreameutopia.cn/article/example-10', // 特性1
 
@@ -48,18 +48,18 @@ const CONFIG = {
     'https://www.dreameutopia.cn/article/example-11', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '严格把控质量', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '设定有完整的评估标准，保障您的权益', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '对于每一个问答，我们都是精心设计', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'https://www.dreameutopia.cn/article/example-12', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '整合多站资源', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '承诺永远更新，永远不用掉队的版本', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '专注于一件事', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '每一个独立的应用都是针对唯一的痛点进行深化开发', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: 'https://www.dreameutopia.cn/article/example-13', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '一套全能的解决方案',
+  STARTER_ABOUT_TITLE: '划时代的全新学习方式',
   STARTER_ABOUT_TEXT:
     'dreameutopia的愿景是帮助您能以更低的价格干更多的事,打破信息茧房，尽我们的可能给您更多的机会，帮助您将自己的故事高效地传达给世界。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
@@ -78,11 +78,11 @@ const CONFIG = {
     '我们制定了灵活的付费模式，您可以按需选择。',
 
   STARTER_PRICING_1_TITLE: '入门版',
-  STARTER_PRICING_1_PRICE: '9.9',
+  STARTER_PRICING_1_PRICE: '免费',
   STARTER_PRICING_1_PRICE_CURRENCY: '￥',
   STARTER_PRICING_1_PRICE_PERIOD: '每月',
   STARTER_PRICING_1_HEADER: '功能点',
-  STARTER_PRICING_1_FEATURES: '上门学习服务,热点推送', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: '超过20个国内外顶尖大模型,个人专属数据库,极速文档分析,文档导出', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_1_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
@@ -93,7 +93,7 @@ const CONFIG = {
   STARTER_PRICING_2_PRICE_CURRENCY: '￥',
   STARTER_PRICING_2_PRICE_PERIOD: '每月',
   STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: '包含入门版,自建独立ChatGPT站点,建站服务,软件服务', // 英文逗号隔开
+  STARTER_PRICING_2_FEATURES: '正在开发中', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_2_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
@@ -103,7 +103,7 @@ const CONFIG = {
   STARTER_PRICING_3_PRICE_CURRENCY: '￥',
   STARTER_PRICING_3_PRICE_PERIOD: '每月',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '包含基础版,自建ChatGPT站点升级,专属VIP客服群', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: '正在开发中', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_3_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
@@ -162,15 +162,15 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
 
-  STARTER_FAQ_1_QUESTION: '什么是ChatGPT自建站点及升级服务？',
+  STARTER_FAQ_1_QUESTION: '为什么我们说它是划时代的产物',
   STARTER_FAQ_1_ANSWER:
-    '因为众所周知的原因，ChatGPT并不对国内开放服务，我们可以帮您搭建一个网站对接ChatGPT官方，可以调用ChatGPT-o1，ChatGPT4.0等最新模型，只需设置一个密码，您就可以通过网站与最强大模型对话，支持文件传输和绘画，升级后支持midjourney等更多种最新绘画服务以及可灵等最新视频生成大模型，以及Claude等其他最新大模型',
+    '针对于每一次问答的记录生成专属的知识库记录，随时导出进行问答，同步生成的思维导图会帮助你进一步理解，内置的笔记空间助你记下每一次的问题，这是完全针对学习的产物，我们对AI进行了针对化的预训练，让你能用更少的话获得更优质的解答',
 
-  STARTER_FAQ_2_QUESTION: '什么是建站服务？',
+  STARTER_FAQ_2_QUESTION: '知识库问答是什么？',
   STARTER_FAQ_2_ANSWER:
-    '我们可以帮您永久运行独属于您的博客或者类似于本站的网站，支持随时编辑，免费支持二级域名自定义，支持全球访问',
+    '文档上传后，后台多线程存入向量数据库，并且生成思维导图，大纲，AI老师将会基于你上传的文档与你展开深刻的探讨，完成你对知识的进一步理解',
 
-  STARTER_FAQ_3_QUESTION: '什么是软件服务？',
+  STARTER_FAQ_3_QUESTION: '有什么优点？',
   STARTER_FAQ_3_ANSWER:
     '我们汇聚了无数非常好用的软件合集（应用商店下载不到），包罗万象，涵盖windows，安卓，鸿蒙',
 
