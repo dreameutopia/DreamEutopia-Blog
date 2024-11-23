@@ -10,7 +10,7 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '我们致力于给你最有保障的服务', // 英雄区文字
+  STARTER_HERO_TITLE_1: '我们致力于给你最有质量的回答', // 英雄区文字
   STARTER_HERO_TITLE_2: '用最少的时间和表达，快速了解更深奥的知识', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '踏上旅途', // 英雄区按钮
@@ -61,7 +61,7 @@ const CONFIG = {
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: '划时代的全新学习方式',
   STARTER_ABOUT_TEXT:
-    'dreameutopia的愿景是帮助您能以更低的价格干更多的事,打破信息茧房，尽我们的可能给您更多的机会，帮助您将自己的故事高效地传达给世界。',
+    'dreameutopia的愿景是帮助您能以更少的时间获得更优质的讲解,获得全新的体验，尽我们的可能给您更优质更有条理的体验。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
@@ -103,7 +103,7 @@ const CONFIG = {
   STARTER_PRICING_3_PRICE_CURRENCY: '￥',
   STARTER_PRICING_3_PRICE_PERIOD: '每月',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '正在开发中', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: '独立站点,独立大模型,个性化优化,正在扩展中', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_3_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
@@ -172,11 +172,11 @@ const CONFIG = {
 
   STARTER_FAQ_3_QUESTION: '有什么优点？',
   STARTER_FAQ_3_ANSWER:
-    '针对于学习创建，对于每一个知识点都有独特优化，并且这是一个基于最先进的向量数据库项目，包含最精准的同义词搜索，如果您不记得某一个知识点的具体名字或内容，我们仍然会帮你搜索出来',
+    '针对于学习创建，对于每一个知识点都有独特优化，并且这是一个基于最先进的向量数据库项目，包含最精准的同义词搜索，如果您不记得某一个知识点的具体名字或内容，我们仍然会帮你搜索出来，并且针对于有大量数据集的用户，我们会在后台生成专属的AI智能体优化体验',
 
   STARTER_FAQ_4_QUESTION: '后续还会有跟进吗？',
   STARTER_FAQ_4_ANSWER:
-    '我们将会持续根据数据集收集满意度，创建更多的数据集去训练专属大模型，并且会加入更多学习方式可供选择',
+    '我们将会持续根据数据集收集满意度，创建更多的数据集去训练专属大模型，并且会加入更多学习方式可供选择，更智能化的提示去设置，目前正在接入微信公众号，实现随看随问随记',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: false, // 团队成员区块开关
@@ -296,8 +296,8 @@ const CONFIG = {
       TITLE: '功能特性',
       LINK_GROUP: [
         {
-          TITLE: '部署指南',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          TITLE: '使用文档',
+          URL: 'https://www.dreameutopia.us.kg/article/word'
         },
         {
           TITLE: '升级指南',
@@ -307,18 +307,18 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: '国产AI推荐',
+      TITLE: '开发日记',
       LINK_GROUP: [
         {
-          TITLE: 'Notion开始写作',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          TITLE: '第一阶段开发',
+          URL: 'https://www.dreameutopia.us.kg/article/magicstudy'
         },
         {
-          TITLE: '快捷键提升效率',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          TITLE: '第二阶段开发',
+          URL: 'https://www.dreameutopia.us.kg/article/aidevleop'
         },
         {
-          TITLE: '中国大陆使用Notion',
+          TITLE: '功能优化日记',
           URL: 'https://docs.tangly1024.com/article/notion-faster'
         }
       ]
