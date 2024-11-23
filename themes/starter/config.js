@@ -10,7 +10,7 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '我们致力于给你最有质量的回答', // 英雄区文字
+  STARTER_HERO_TITLE_1: '我们致力于给你最优质的回答', // 英雄区文字
   STARTER_HERO_TITLE_2: '用最少的时间和表达，快速了解更深奥的知识', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '踏上旅途', // 英雄区按钮
