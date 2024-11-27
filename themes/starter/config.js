@@ -273,7 +273,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
+  STARTER_FOOTER_SLOGAN: '我们通过最先进的技术给您最优质的体验。',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
@@ -284,11 +284,7 @@ const CONFIG = {
         { TITLE: '我的博客', URL: 'https://www.dreameutopia.us.kg/' },
         {
           TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
-        },
-        {
-          TITLE: '合作申请',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          URL: 'https://www.dreameutopia.us.kg/article/word'
         }
       ]
     },
@@ -301,9 +297,9 @@ const CONFIG = {
         },
         {
           TITLE: '升级指南',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          URL: 'https://www.dreameutopia.us.kg/article/word'
         },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+        { TITLE: '最新版本', URL: 'https://www.dreameutopia.us.kg/article/word' }
       ]
     },
     {
@@ -319,7 +315,7 @@ const CONFIG = {
         },
         {
           TITLE: '功能优化日记',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          URL: 'https://www.dreameutopia.us.kg/article/aidevleop'
         }
       ]
     }
