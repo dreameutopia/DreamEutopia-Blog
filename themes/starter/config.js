@@ -61,7 +61,7 @@ const CONFIG = {
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: '划时代的全新学习方式',
   STARTER_ABOUT_TEXT:
-    'dreameutopia的愿景是帮助您能以更少的时间获得更优质的讲解,获得全新的体验，尽我们的可能给您更优质更有条理的体验。',
+    'dreameutopia的愿景是帮助您能以更少的时间获得更优质的讲解,获得全新的体验，尽我们的可能给您更优质更有条理的回答。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
@@ -120,37 +120,37 @@ const CONFIG = {
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '感谢大佬的方法。之前尝试过Super、Potion等国外的第三方平台，实现效果一般，个性化程度远不如这个方法，已经用起来了！ ',
+        '知识库生成功能真的很好用！！！历史记录整合真的戳到痛点上了，什么时候想复习真的很方便 ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Ryan_G',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Ryan`Log 站长',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Ryan`Log',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '很喜欢这个主题，本代码小白用三天台风假期搭建出来了，还根据大佬的教程弄了自定义域名，十分感谢，已请喝咖啡~',
+        '很看好这个项目的RAG部分，搜索精准度高，并且针对学习有特殊的对话调教，很适合去学习新知识和加深理解',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋 站长',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '很难想象能以这么低的价钱获得这么高的教学质量，而且还有保障( •̀ ω •́ )y ',
+        '一直被怎么写提示词困扰着，真的很不想去一遍遍看着提示词框架开发提示词，这个网站很好的解决了这个问题的同时还提供了自动测试修复功能，真的是让我能快速的生成非常精准的提示词',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '家长',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '学生',
       STARTER_TESTIMONIALS_ITEM_URL: '#/'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '终于也是用上自己的网站了',
+        '这个网站确确实实是对学习进行了从头到尾是适配，针对一个痛点开发到了极致，非常期待接下来的自主知识库生成系统，听说自定义化程度会更上一层楼，期待住了',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: '迪升disheng ',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'disheng ',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'keep',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
     }
@@ -176,7 +176,7 @@ const CONFIG = {
 
   STARTER_FAQ_4_QUESTION: '后续还会有跟进吗？',
   STARTER_FAQ_4_ANSWER:
-    '我们将会持续根据数据集收集满意度，创建更多的数据集去训练专属大模型，并且会加入更多学习方式可供选择，更智能化的提示去设置，目前正在接入微信公众号，实现随看随问随记',
+    '我们将会持续根据数据集收集满意度，创建更多的数据集去训练专属大模型，并且会加入更多学习方式可供选择，更智能化的提示去设置，目前正在接入微信公众号，微信号，实现随看随问随记',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: false, // 团队成员区块开关
