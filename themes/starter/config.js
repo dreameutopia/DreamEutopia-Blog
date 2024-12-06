@@ -15,9 +15,9 @@ const CONFIG = {
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '踏上旅途', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://github.com/eutopiayang', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://github.com/eutopiayang/NotionNext/', // 英雄区按钮
+    'http://47.98.167.25:8083/', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '在博客上关注', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://www.dreameutopia.us.kg/', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/bk-3.jpg', // 产品预览图 ，默认读取public目录下图片
@@ -61,7 +61,7 @@ const CONFIG = {
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: '划时代的全新学习方式',
   STARTER_ABOUT_TEXT:
-    'dreameutopia的愿景是帮助您能以更少的时间获得更优质的讲解,获得全新的体验，尽我们的可能给您更优质更有条理的回答。',
+    'dreameutopia的愿景是帮助您能以更少的时间获得更优质的讲解,获得全新的体验，尽我们的可能给您更优质更有条理的回答。目前内测，对话效率会每日优化',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
@@ -82,31 +82,31 @@ const CONFIG = {
   STARTER_PRICING_1_PRICE_CURRENCY: '￥',
   STARTER_PRICING_1_PRICE_PERIOD: '每月',
   STARTER_PRICING_1_HEADER: '功能点',
-  STARTER_PRICING_1_FEATURES: '超过20个国内外顶尖大模型,个人专属数据库,极速文档分析,文档导出', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: '超过15个国内外顶尖大模型,个人专属数据库,极速文档分析,文档导出,数据库对话,提示词生成功能', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_1_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
+    '#',
 
   STARTER_PRICING_2_TAG: '推荐',
   STARTER_PRICING_2_TITLE: '基础版',
-  STARTER_PRICING_2_PRICE: '9.9',
+  STARTER_PRICING_2_PRICE: '4.9',
   STARTER_PRICING_2_PRICE_CURRENCY: '￥',
   STARTER_PRICING_2_PRICE_PERIOD: '每月',
   STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: 'ChatGPT4助力,专属智能体开发,正在扩展中', // 英文逗号隔开
+  STARTER_PRICING_2_FEATURES: '包含标准版,ChatGPT4助力,专属对话体验适配', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_2_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
+    '#',
 
   STARTER_PRICING_3_TITLE: '高级版',
-  STARTER_PRICING_3_PRICE: '19.9',
+  STARTER_PRICING_3_PRICE: '9.9',
   STARTER_PRICING_3_PRICE_CURRENCY: '￥',
   STARTER_PRICING_3_PRICE_PERIOD: '每月',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '独立站点,独立大模型,个性化优化,正在扩展中', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: '包含基础版,5个700亿参数及以上大模型,功能抢先预览,正在扩展中', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_3_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+    '#',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
