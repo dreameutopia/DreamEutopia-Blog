@@ -39,23 +39,23 @@ const CONFIG = {
   STARTER_FEATURE_1_TITLE_1: '快速且高效', // 特性1
   STARTER_FEATURE_1_TEXT_1: 'AI助力，RAG辅助，交互式设计', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://www.dreameutopia.cn/article/example-10', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://docs.dreameutopia.cn/article/docx', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '个性化定制', // 特性2
   STARTER_FEATURE_2_TEXT_1: '提出您的需求，我们总是有解决方案', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://www.dreameutopia.cn/article/example-11', // 特性2
+    'https://docs.dreameutopia.cn/article/docx', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '严格把控质量', // 特性3
   STARTER_FEATURE_3_TEXT_1: '对于每一个问答，我们都是精心设计', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://www.dreameutopia.cn/article/example-12', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.dreameutopia.cn/article/docx', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '专注于一件事', // 特性4
   STARTER_FEATURE_4_TEXT_1: '每一个独立的应用都是针对唯一的痛点进行深化开发', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://www.dreameutopia.cn/article/example-13', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.dreameutopia.cn/article/docx', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
@@ -63,7 +63,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     'dreameutopia的愿景是帮助您能以更少的时间获得更优质的讲解,获得全新的体验，尽我们的可能给您更优质更有条理的回答。目前内测，对话效率会每日优化',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
+  STARTER_ABOUT_BUTTON_URL: 'https://docs.dreameutopia.cn/article/docx',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '6000+',
