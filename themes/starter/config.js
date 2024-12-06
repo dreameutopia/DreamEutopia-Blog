@@ -293,13 +293,13 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: '使用文档',
-          URL: 'https://www.dreameutopia.us.kg/article/word'
+          URL: 'https://docs.dreameutopia.cn/article/docx'
         },
         {
           TITLE: '升级指南',
-          URL: 'https://www.dreameutopia.us.kg/article/word'
+          URL: 'https://docs.dreameutopia.cn/article/docx'
         },
-        { TITLE: '最新版本', URL: 'https://www.dreameutopia.us.kg/article/word' }
+        { TITLE: '最新版本', URL: 'https://docs.dreameutopia.cn/article/docx' }
       ]
     },
     {
@@ -345,7 +345,7 @@ const CONFIG = {
     '加入我们这个大家庭吧，开启崭新的体验',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
-    'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
+    'http://47.98.167.25:8083/',
   STARTER_CTA_BUTTON_TEXT: '开始体验',
 
   STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
