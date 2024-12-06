@@ -3,19 +3,19 @@ import SocialButton from '@/themes/fukasawa/components/SocialButton'
 import { Logo } from './Logo'
 import { SVGFooterCircleBG } from './svg/SVGFooterCircleBG'
 
-// /* eslint-disable @next/next/no-img-element */
-// export const Footer = props => {
-//   const latestPosts = props?.latestPosts ? props?.latestPosts.slice(0, 2) : []
-//   const STARTER_FOOTER_LINK_GROUP = siteConfig('STARTER_FOOTER_LINK_GROUP')
-//   return (
-//     <>
-//       {/* <!-- ====== Footer Section Start --> */}
-//       <footer
-//         className='wow fadeInUp relative z-10 bg-[#090E34] pt-20 lg:pt-[100px]'
-//         data-wow-delay='.15s'>
+/* eslint-disable @next/next/no-img-element */
+export const Footer = props => {
+  const latestPosts = props?.latestPosts ? props?.latestPosts.slice(0, 2) : []
+  const STARTER_FOOTER_LINK_GROUP = siteConfig('STARTER_FOOTER_LINK_GROUP')
+  return (
+    <>
+      {/* <!-- ====== Footer Section Start --> */}
+      <footer
+        className='wow fadeInUp relative z-10 bg-[#090E34] pt-20 lg:pt-[100px]'
+        data-wow-delay='.15s'>
         
-//       </footer>
-//       {/* <!-- ====== Footer Section End --> */}
-//     </>
-//   )
-// }
+      </footer>
+      {/* <!-- ====== Footer Section End --> */}
+    </>
+  )
+}
