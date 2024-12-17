@@ -41,19 +41,19 @@ const CONFIG = {
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://docs.dreameutopia.cn/article/docx', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '个性化定制', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '提出您的需求，我们总是有解决方案', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '持久化数据', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '数据不会被删除，持久打造专属知识库', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     'https://docs.dreameutopia.cn/article/docx', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '严格把控质量', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '对于每一个问答，我们都是精心设计', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '深度学习', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '针对一个知识点进行深度搜索,支持哪里不会点哪里', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'https://docs.dreameutopia.cn/article/docx', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '专注于一件事', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '每一个独立的应用都是针对唯一的痛点进行深化开发', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '体验前沿技术', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '实时训练最新大模型，并且不断优化拓展功能', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: 'https://docs.dreameutopia.cn/article/docx', // 特性4
 
@@ -82,7 +82,7 @@ const CONFIG = {
   STARTER_PRICING_1_PRICE_CURRENCY: '￥',
   STARTER_PRICING_1_PRICE_PERIOD: '每月',
   STARTER_PRICING_1_HEADER: '功能点',
-  STARTER_PRICING_1_FEATURES: '超过15个国内外顶尖大模型,个人专属数据库,极速文档分析,文档导出,数据库对话,提示词生成功能', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: '超过15个国内外顶尖大模型,个人专属数据库,极速文档分析,知识库导出,数据库对话,提示词生成功能', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_1_BUTTON_URL:
     '#',
@@ -93,7 +93,7 @@ const CONFIG = {
   STARTER_PRICING_2_PRICE_CURRENCY: '￥',
   STARTER_PRICING_2_PRICE_PERIOD: '每月',
   STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: '包含标准版,ChatGPT4助力,专属对话体验适配', // 英文逗号隔开
+  STARTER_PRICING_2_FEATURES: '包含标准版,ChatGPT4o联网额度,深度探索额度,大文件分析额度', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_2_BUTTON_URL:
     '#',
@@ -103,7 +103,7 @@ const CONFIG = {
   STARTER_PRICING_3_PRICE_CURRENCY: '￥',
   STARTER_PRICING_3_PRICE_PERIOD: '每月',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '包含基础版,5个700亿参数及以上大模型,功能抢先预览,正在扩展中', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: '包含基础版,更多额度,最新大模型,首发体验预览版功能,正在扩展中', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_3_BUTTON_URL:
     '#',
